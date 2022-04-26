@@ -1,0 +1,222 @@
+{
+    "root": {
+        "element": [
+            {
+                "descritpion": "Lorem чісбургер ipsum dolor sit amet consectetur adipisicingelitVoluptatetemporibusrem tempore maxime sapiente. Necessitatibus, nulla",
+                "id": "1",
+                "img": "burger1",
+                "name": "чісбургер",
+                "price": "100",
+                "top": "true",
+                "type": "Бургери"
+            },
+            {
+                "descritpion": "Lorem дабл рояль ipsum dolor sit amet consectetur adipisicingelitVoluptatetemporibusrem tempore maxime sapiente. Necessitatibus, nulla sapiente. Necessitatibus, nulla",
+                "id": "2",
+                "img": "burger2",
+                "name": "дабл рояль",
+                "price": "150",
+                "top": "true",
+                "type": "Бургери"
+            },
+            {
+                "descritpion": "Lorem бургер ipsum dolor sit amet consectetur adipisicingelitVoluptatetemporibusrem tempore maxime",
+                "id": "3",
+                "img": "burger3",
+                "name": "бургер",
+                "price": "70",
+                "top": "true",
+                "type": "Бургери"
+            },
+            {
+                "descritpion": "Lorem біг тейсті  amet consectetur adipisicingelitVoluptatetemporibusrem tempore maxime sapiente. Necessitatibus, nulla",
+                "id": "4",
+                "img": "burger4",
+                "name": "біг тейсті",
+                "price": "130",
+                "top": "false",
+                "type": "Бургери"
+            },
+            {
+                "descritpion": "Lorem вега роляь ipsum dolor sit amet consectetur adipisicingelitVo       sdfsdgsdfluptatetemporibusrem tempore maxime sapiente. Necessitatibus, nulla",
+                "id": "5",
+                "img": "burger5",
+                "name": "веган рояль",
+                "price": "170",
+                "top": "false",
+                "type": "Бургери"
+            },
+            {
+                "descritpion": "фанта sdfsdgsdfluptatetemporibusrem tempore maxime sapiente. Necessitatibus, nulla",
+                "id": "10",
+                "img": "drink1",
+                "name": "фанта",
+                "price": "40",
+                "top": "true",
+                "type": "Напої"
+            },
+            {
+                "descritpion": "спрайт sdfsdgsdfluptatetemporibusrem tempore maxime sapiente. Necessitatibus, nulla",
+                "id": "11",
+                "img": "drink2",
+                "name": "спрайт",
+                "price": "40",
+                "top": "false",
+                "type": "Напої"
+            },
+            {
+                "descritpion": "полуницевий коктейль      sdfsdgsdfluptatetemporibusrem tempore maxime sapiente. Necessitatibus, nulla",
+                "id": "12",
+                "img": "drink3",
+                "name": "полуницевий коктейль",
+                "price": "60",
+                "top": "false",
+                "type": "Напої"
+            },
+            {
+                "descritpion": "пепсі     sdfsdgsdfluptatetemporibusrem tempore maxime sapiente. Necessitatibus, nulla",
+                "id": "13",
+                "img": "drink4",
+                "name": "пепсі",
+                "price": "40",
+                "top": "true",
+                "type": "Напої"
+            },
+            {
+                "descritpion": "стейк ipsum dolor sit amet consectetur adipisicingelitVoluptatetemporibusrem tempore maxime sapiente. Necessitatibus, nulla",
+                "id": "14",
+                "img": "meat1",
+                "name": "стейк",
+                "price": "200",
+                "top": "false",
+                "type": "Стейки"
+            },
+            {
+                "descritpion": "Lorem біф штекс ipsum dolor sit amet consectetur adipisicingelitVoluptatetemporibusrem tempore maxime sapiente. Necessitatibus, nulla",
+                "id": "15",
+                "img": "meat2",
+                "name": "біф штекс",
+                "price": "210",
+                "top": "true",
+                "type": "Стейки"
+            },
+            {
+                "descritpion": "Lorem свинний флоу ipsum dolor sit amet consectetur adipisicingelitVoluptatetemporibusrem tempore maxime sapiente. Necessitatibus, nulla",
+                "id": "16",
+                "img": "meat3",
+                "name": "свинний флоу",
+                "price": "240",
+                "top": "false",
+                "type": "Стейки"
+            },
+            {
+                "descritpion": "Lorem стейк ipsum dolor sit amet consectetur adipisicingelitVoluptatetemporibusrem tempore maxime sapiente. Necessitatibus, nulla",
+                "id": "17",
+                "img": "meat4",
+                "name": "стейк",
+                "price": "130",
+                "top": "true",
+                "type": "Стейки"
+            },
+            {
+                "descritpion": "Lorem кетчуп ipsum dolor sit amet consectetur adipisicingelitVoluptatetemporibusrem tempore maxime sapiente. Necessitatibus, nulla",
+                "id": "18",
+                "img": "sauce1",
+                "name": "кетчуп",
+                "price": "15",
+                "top": "true",
+                "type": "Соуси"
+            },
+            {
+                "descritpion": "Lorem соус сметанний dolor sit amet consectetur adipisicingelitVoluptatetemporibusrem tempore maxime sapiente. Necessitatibus, nulla",
+                "id": "19",
+                "img": "sauce2",
+                "name": "соус сметанний",
+                "price": "25",
+                "top": "true",
+                "type": "Соуси"
+            },
+            {
+                "descritpion": "Lorem стейк соус ніжний sit amet consectetur adipisicingelitVoluptatetemporibusrem tempore maxime sapiente. Necessitatibus, nulla",
+                "id": "20",
+                "img": "sauce3",
+                "name": "соус ніжний",
+                "price": "19",
+                "top": "false",
+                "type": "Соуси"
+            },
+            {
+                "descritpion": "Lorem соус часниковий dolor sit amet consectetur adipisicingelitVoluptatetemporibusrem tempore maxime sapiente. Necessitatibus, nulla",
+                "id": "21",
+                "img": "sauce4",
+                "name": "соус часниковий",
+                "price": "20",
+                "top": "false",
+                "type": "Соуси"
+            },
+            {
+                "descritpion": "Lorem соус карі dolor sit amet consectetur adipisicingelitVoluptatetemporibusrem tempore maxime sapiente. Necessitatibus, nulla",
+                "id": "22",
+                "img": "sauce5",
+                "name": "соус карі",
+                "price": "25",
+                "top": "true",
+                "type": "Соуси"
+            },
+            {
+                "descritpion": "Lorem соус сирний dolor sit amet consectetur adipisicingelitVoluptatetemporibusrem tempore maxime sapiente. Necessitatibus, nulla",
+                "id": "23",
+                "img": "sauce6",
+                "name": "соус сирний",
+                "price": "20",
+                "top": "true",
+                "type": "Соуси"
+            },
+            {
+                "descritpion": "Lorem фрі з нагетсами dolor sit amet consectetur adipisicingelitVoluptatetemporibusrem tempore maxime sapiente. Necessitatibus, nulla",
+                "id": "24",
+                "img": "potatto1",
+                "name": "фрі з нагетсами",
+                "price": "40",
+                "top": "true",
+                "type": "Картопля"
+            },
+            {
+                "descritpion": "Lorem соус лонг фрі consectetur adipisicingelitVoluptatetemporibusrem tempore maxime sapiente. Necessitatibus, nulla",
+                "id": "25",
+                "img": "potatto2",
+                "name": "лонг фрі",
+                "price": "30",
+                "top": "false",
+                "type": "Картопля"
+            },
+            {
+                "descritpion": "Lorem фрі сьоркл сирний dolor sit amet consectetur adipisicingelitVoluptatetemporibusrem tempore maxime sapiente. Necessitatibus, nulla",
+                "id": "26",
+                "img": "potatto3",
+                "name": "фрі сьоркл",
+                "price": "25",
+                "top": "false",
+                "type": "Картопля"
+            },
+            {
+                "descritpion": "Lorem артопля фрі dolor sit amet consectetur adipisicingelitVoluptatetemporibusrem tempore maxime sapiente. Necessitatibus, nulla",
+                "id": "28",
+                "img": "potatto4",
+                "name": "картопля фрі",
+                "price": "20",
+                "top": "true",
+                "type": "Картопля"
+            },
+            {
+                "descritpion": "Lorem біг мак consectetur adipisicingelitVoluptatetemporibusrem tempore maxime sapiente. Necessitatibus, nulla tempore maxime sapiente.",
+                "id": "33",
+                "img": "set1",
+                "name": "біг мак",
+                "price": "210",
+                "top": "true",
+                "type": "Набір"
+            }
+        ]
+    }
+}

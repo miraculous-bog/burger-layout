@@ -1,0 +1,21 @@
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="">
+  <xs:element name="root">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="element" maxOccurs="unbounded" minOccurs="0">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element type="xs:string" name="descritpion"/>
+              <xs:element type="xs:byte" name="id"/>
+              <xs:element type="xs:string" name="img"/>
+              <xs:element type="xs:string" name="name"/>
+              <xs:element type="xs:short" name="price"/>
+              <xs:element type="xs:string" name="top"/>
+              <xs:element type="xs:string" name="type"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
