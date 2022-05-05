@@ -1,7 +1,7 @@
 // import { items } from "./items.js";
 let items;
 let jsonItems;
-let currentType = "Бургери";
+let currentType = "burgers";
 const refs = {
   net: document.querySelector(".catalog-net"),
   flitr: document.querySelector(".filter__buttons"),
@@ -67,8 +67,8 @@ fetch('food.xml').then((response) => {
 	  ${item.descritpion}
 	  </p>
 	  <div class="catalog-net__item-buy">
-		<p class="item-buy__price">${item.price} грн.</p>
-		<button class="buy-button item-buy__buy">У кошик</button>
+		<p class="item-buy__price">${item.price} $</p>
+		<button class="buy-button item-buy__buy">Buy</button>
 	  </div>
 	</div>
   </div>`;
@@ -110,21 +110,23 @@ fetch('food.xml').then((response) => {
       // li.remove();
     }
 
-    const findItem = (id) => items.find(item => item.id = id);
+    const findItem = (id) => items.find(item => item.id === id);
 
     const createBasket = (item) => {
-      return `<div class="modal__body-item">
+      console.log(item);
+      return `<div class="modal__body-item" data-delete="${item.id}">
       <img class="modal__body-img" src="items-img/${item.img}.png" alt="">
       <h3 class="modal__body-title">${item.name}</h3>
 
       <p class="modal__body-price">${item.price} $</p>
-      <button data-delete="${item.id}">delete</button>
+      <button class="modal__body-btn-del" data-delete="${item.id}">delete</button>
     </div>`;
     }
 
     const handlerNet = (e) => {
       let item = e.target.parentNode.parentNode.parentNode.dataset.id;
       // const variableB = () => createBasket(findItem(item)).join("");
+      console.log(item);
       refs.modal.insertAdjacentHTML("afterbegin", createBasket(findItem(item)));
       // console.log(createBasket(findItem(item)));
     }
@@ -133,6 +135,15 @@ fetch('food.xml').then((response) => {
 
     refs.net.addEventListener("click", handlerNet);
 
+    const handlerDel = e => {
+      const el = e.target;
+      // el.parentNode.children;
+      let element = el.parentNode;
+      const basket = el.parentNode.parentNode;
+      basket.removeChild(element);
+    }
+
+    refs.modal.addEventListener('click', handlerDel);
   });
 });
 

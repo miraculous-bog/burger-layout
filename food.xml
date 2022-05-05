@@ -1,219 +1,219 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
    <element>
-      <descritpion>Lorem чісбургер ipsum dolor sit amet consectetur adipisicingelitVoluptatetemporibusrem tempore maxime sapiente. Necessitatibus, nulla</descritpion>
+      <descritpion>Cheeseburger - a type of hamburger with the obligatory addition of cheese. In addition to meat and cheese, a cheeseburger can have a wide variety of sauces: most often based on ketchup, but mayonnaise is also allowed.</descritpion>
       <id>1</id>
       <img>burger1</img>
-      <name>чісбургер</name>
+      <name>cheeseburger</name>
       <price>100</price>
       <top>true</top>
-      <type>Бургери</type>
+      <type>burgers</type>
    </element>
    <element>
-      <descritpion>Lorem дабл рояль ipsum dolor sit amet consectetur adipisicingelitVoluptatetemporibusrem tempore maxime sapiente. Necessitatibus, nulla sapiente. Necessitatibus, nulla</descritpion>
+      <descritpion>Double Royal Cheeseburger. Our double favorite is the Royal Double Cheeseburger. It has everything we love about Royal Cheese - Quarter Bun, Cheddar Double</descritpion>
       <id>2</id>
       <img>burger2</img>
-      <name>дабл рояль</name>
+      <name>Double Royal</name>
       <price>150</price>
       <top>true</top>
-      <type>Бургери</type>
+      <type>burgers</type>
    </element>
    <element>
-      <descritpion>Lorem бургер ipsum dolor sit amet consectetur adipisicingelitVoluptatetemporibusrem tempore maxime</descritpion>
+      <descritpion>A hamburger is a type of sandwich consisting of a bun cut in half and a chopped fried cutlet. In addition to meat, a hamburger can have a wide variety of toppings, such as ketchup and mayonnaise, a slice of zucchini, lettuce, pickled cucumber, raw or fried onions, and tomato.</descritpion>
       <id>3</id>
       <img>burger3</img>
-      <name>бургер</name>
+      <name>hamburger</name>
       <price>70</price>
       <top>true</top>
-      <type>Бургери</type>
+      <type>burgers</type>
    </element>
    <element>
-      <descritpion>Lorem біг тейсті  amet consectetur adipisicingelitVoluptatetemporibusrem tempore maxime sapiente. Necessitatibus, nulla</descritpion>
+      <descritpion>Natural beef in combination with fresh vegetables and Emmental cream cheese.</descritpion>
       <id>4</id>
       <img>burger4</img>
-      <name>біг тейсті</name>
+      <name>Big tasty</name>
       <price>130</price>
       <top>false</top>
-      <type>Бургери</type>
+      <type>burgers</type>
    </element>
    <element>
-      <descritpion>Lorem вега роляь ipsum dolor sit amet consectetur adipisicingelitVo       sdfsdgsdfluptatetemporibusrem tempore maxime sapiente. Necessitatibus, nulla</descritpion>
+      <descritpion>Sandwich with carrots and spinach. Healthy and satisfying vegetarian sandwich</descritpion>
       <id>5</id>
       <img>burger5</img>
-      <name>веган рояль</name>
+      <name>Vegan sandwich</name>
       <price>170</price>
       <top>false</top>
-      <type>Бургери</type>
+      <type>burgers</type>
    </element>
    <element>
-      <descritpion>фанта sdfsdgsdfluptatetemporibusrem tempore maxime sapiente. Necessitatibus, nulla</descritpion>
+      <descritpion>non-alcoholic highly carbonated soft drink with citrus flavor; produced by the Coca-Cola Corporation</descritpion>
       <id>10</id>
       <img>drink1</img>
-      <name>фанта</name>
+      <name>fanta</name>
       <price>40</price>
       <top>true</top>
-      <type>Напої</type>
+      <type>drinks</type>
    </element>
    <element>
-      <descritpion>спрайт sdfsdgsdfluptatetemporibusrem tempore maxime sapiente. Necessitatibus, nulla</descritpion>
+      <descritpion>lime and lemon flavored carbonated soft drink owned by the American company The Coca-Cola Company.</descritpion>
       <id>11</id>
       <img>drink2</img>
-      <name>спрайт</name>
+      <name>sprite</name>
       <price>40</price>
       <top>false</top>
-      <type>Напої</type>
+      <type>drinks</type>
    </element>
    <element>
-      <descritpion>полуницевий коктейль      sdfsdgsdfluptatetemporibusrem tempore maxime sapiente. Necessitatibus, nulla</descritpion>
+      <descritpion>dessert drink based on milk and ice cream, one of the symbols of American cuisine. To give the cocktail a variety of flavors, a variety of syrups, fruits, berries, grated Oreo cookies, and so on are added to it.</descritpion>
       <id>12</id>
       <img>drink3</img>
-      <name>полуницевий коктейль</name>
+      <name>milk shake</name>
       <price>60</price>
       <top>false</top>
-      <type>Напої</type>
+      <type>drinks</type>
    </element>
    <element>
-      <descritpion>пепсі     sdfsdgsdfluptatetemporibusrem tempore maxime sapiente. Necessitatibus, nulla</descritpion>
+      <descritpion>non-alcoholic carbonated drink produced by the American company PepsiCo.</descritpion>
       <id>13</id>
       <img>drink4</img>
-      <name>пепсі</name>
+      <name>pepsi</name>
       <price>40</price>
       <top>true</top>
-      <type>Напої</type>
+      <type>drinks</type>
    </element>
    <element>
-      <descritpion>стейк ipsum dolor sit amet consectetur adipisicingelitVoluptatetemporibusrem tempore maxime sapiente. Necessitatibus, nulla</descritpion>
+      <descritpion>a thick piece of fried meat. A steak made from the finest cuts of beef is usually referred to simply as a steak.</descritpion>
       <id>14</id>
       <img>meat1</img>
-      <name>стейк</name>
+      <name>steak</name>
       <price>200</price>
       <top>false</top>
-      <type>Стейки</type>
+      <type>steaks</type>
    </element>
    <element>
-      <descritpion>Lorem біф штекс ipsum dolor sit amet consectetur adipisicingelitVoluptatetemporibusrem tempore maxime sapiente. Necessitatibus, nulla</descritpion>
+      <descritpion>Steak with garlic and herbs recipe</descritpion>
       <id>15</id>
       <img>meat2</img>
-      <name>біф штекс</name>
+      <name>beaf steak</name>
       <price>210</price>
       <top>true</top>
-      <type>Стейки</type>
+      <type>steaks</type>
    </element>
    <element>
-      <descritpion>Lorem свинний флоу ipsum dolor sit amet consectetur adipisicingelitVoluptatetemporibusrem tempore maxime sapiente. Necessitatibus, nulla</descritpion>
+      <descritpion>For cooking, muscles are used that are not involved in the movement of the bull.</descritpion>
       <id>16</id>
       <img>meat3</img>
-      <name>свинний флоу</name>
+      <name>beaf bomb</name>
       <price>240</price>
       <top>false</top>
-      <type>Стейки</type>
+      <type>steaks</type>
    </element>
    <element>
-      <descritpion>Lorem стейк ipsum dolor sit amet consectetur adipisicingelitVoluptatetemporibusrem tempore maxime sapiente. Necessitatibus, nulla</descritpion>
+      <descritpion>qualitatively cooked thick piece of meat cut from the carcass of the animal</descritpion>
       <id>17</id>
-      <img>meat4</img>
+      <img>chicken steak</img>
       <name>стейк</name>
       <price>130</price>
       <top>true</top>
-      <type>Стейки</type>
+      <type>steaks</type>
    </element>
    <element>
-      <descritpion>Lorem кетчуп ipsum dolor sit amet consectetur adipisicingelitVoluptatetemporibusrem tempore maxime sapiente. Necessitatibus, nulla</descritpion>
+      <descritpion>the main components of which are tomatoes, vinegar, sugar and spices (salt, red and black pepper, and many others). Ketchup with toast</descritpion>
       <id>18</id>
       <img>sauce1</img>
-      <name>кетчуп</name>
+      <name>ketchup</name>
       <price>15</price>
       <top>true</top>
-      <type>Соуси</type>
+      <type>sauces</type>
    </element>
    <element>
-      <descritpion>Lorem соус сметанний dolor sit amet consectetur adipisicingelitVoluptatetemporibusrem tempore maxime sapiente. Necessitatibus, nulla</descritpion>
+      <descritpion>Sour cream sauce may vary. Lifehacker has found for you your favorite combinations with garlic and herbs, as well as original sauces with eggs</descritpion>
       <id>19</id>
       <img>sauce2</img>
-      <name>соус сметанний</name>
+      <name>sauce cream</name>
       <price>25</price>
       <top>true</top>
-      <type>Соуси</type>
+      <type>sauces</type>
    </element>
    <element>
-      <descritpion>Lorem стейк соус ніжний sit amet consectetur adipisicingelitVoluptatetemporibusrem tempore maxime sapiente. Necessitatibus, nulla</descritpion>
+      <descritpion>Sauce Gentle - beautiful, fragrant and easy to prepare. It is combined with fish, meat, vegetables.</descritpion>
       <id>20</id>
       <img>sauce3</img>
-      <name>соус ніжний</name>
+      <name>Sauce Gentle</name>
       <price>19</price>
       <top>false</top>
-      <type>Соуси</type>
+      <type>sauces</type>
    </element>
    <element>
-      <descritpion>Lorem соус часниковий dolor sit amet consectetur adipisicingelitVoluptatetemporibusrem tempore maxime sapiente. Necessitatibus, nulla</descritpion>
+      <descritpion>sauce, the main component of which is garlic. Garlic sauce is used to prepare various dishes of world cuisine.</descritpion>
       <id>21</id>
       <img>sauce4</img>
-      <name>соус часниковий</name>
+      <name>garlic sauce</name>
       <price>20</price>
       <top>false</top>
-      <type>Соуси</type>
+      <type>sauces</type>
    </element>
    <element>
-      <descritpion>Lorem соус карі dolor sit amet consectetur adipisicingelitVoluptatetemporibusrem tempore maxime sapiente. Necessitatibus, nulla</descritpion>
+      <descritpion>culinary business card of colorful India. Curry sauce from Runa TM is a preserved oriental tradition and domestic innovative views. Contains apple and apricot fruit puree, diluted with wine vinegar and seasoned with turmeric and cumin.</descritpion>
       <id>22</id>
       <img>sauce5</img>
-      <name>соус карі</name>
+      <name>curry sauce</name>
       <price>25</price>
       <top>true</top>
-      <type>Соуси</type>
+      <type>sauces</type>
    </element>
    <element>
-      <descritpion>Lorem соус сирний dolor sit amet consectetur adipisicingelitVoluptatetemporibusrem tempore maxime sapiente. Necessitatibus, nulla</descritpion>
+      <descritpion>Cheddar sauce, cheddar cheese or cheese sauce is a traditional sauce used in English cooking. The sauce is based on white sauce, which is known as one of the "mother sauces", and cheddar cheese.</descritpion>
       <id>23</id>
       <img>sauce6</img>
-      <name>соус сирний</name>
+      <name>cheese sauce</name>
       <price>20</price>
       <top>true</top>
-      <type>Соуси</type>
+      <type>sauces</type>
    </element>
    <element>
-      <descritpion>Lorem фрі з нагетсами dolor sit amet consectetur adipisicingelitVoluptatetemporibusrem tempore maxime sapiente. Necessitatibus, nulla</descritpion>
+      <descritpion>French fries with cheese sauce and onions</descritpion>
       <id>24</id>
       <img>potatto1</img>
-      <name>фрі з нагетсами</name>
+      <name>french and nagets</name>
       <price>40</price>
       <top>true</top>
-      <type>Картопля</type>
+      <type>potato</type>
    </element>
    <element>
-      <descritpion>Lorem соус лонг фрі consectetur adipisicingelitVoluptatetemporibusrem tempore maxime sapiente. Necessitatibus, nulla</descritpion>
+      <descritpion>Long and tasty potato</descritpion>
       <id>25</id>
       <img>potatto2</img>
-      <name>лонг фрі</name>
+      <name>long potato</name>
       <price>30</price>
       <top>false</top>
-      <type>Картопля</type>
+      <type>potato</type>
    </element>
    <element>
-      <descritpion>Lorem фрі сьоркл сирний dolor sit amet consectetur adipisicingelitVoluptatetemporibusrem tempore maxime sapiente. Necessitatibus, nulla</descritpion>
+      <descritpion>deep fried potato pieces. Use as an independent dis</descritpion>
       <id>26</id>
       <img>potatto3</img>
-      <name>фрі сьоркл</name>
+      <name>potato rings</name>
       <price>25</price>
       <top>false</top>
-      <type>Картопля</type>
+      <type>potato</type>
    </element>
    <element>
-      <descritpion>Lorem артопля фрі dolor sit amet consectetur adipisicingelitVoluptatetemporibusrem tempore maxime sapiente. Necessitatibus, nulla</descritpion>
+      <descritpion>deep fried potato pieces. Use as an independent dish or a side dish for second courses. Popular fast food in catering establishments.</descritpion>
       <id>28</id>
       <img>potatto4</img>
-      <name>картопля фрі</name>
+      <name>French fries</name>
       <price>20</price>
       <top>true</top>
-      <type>Картопля</type>
+      <type>potato</type>
    </element>
-   <element>
+   <!-- <element>
       <descritpion>Lorem біг мак consectetur adipisicingelitVoluptatetemporibusrem tempore maxime sapiente. Necessitatibus, nulla tempore maxime sapiente. </descritpion>
       <id>33</id>
       <img>set1</img>
       <name>біг мак</name>
       <price>210</price>
       <top>true</top>
-      <type>Набір</type>
-   </element>
+      <type>set</type>
+   </element> -->
 </root>

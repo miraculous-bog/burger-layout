@@ -65,7 +65,9 @@
 	width: 150px;
 	height: 150px;
 }
-
+.social {
+	margin-top: 40px;
+}
 .social__circle {
 	display: inline-block;
 	margin-left: 20px;
@@ -146,13 +148,13 @@
 	font-size: 20px;	
 }
 .slider__text-price {
-	color: black;
+	color: #f3a912;
 	text-transform: uppercase;
 	font-weight: 600;
 	font-size: 50px;
 	padding: 15px;
 	text-align: center;
-	background-color: #f3a912;
+	/* background-color: #f3a912; */
 	display: inline-block;
 	transform: skewX(7deg); 
 
@@ -256,6 +258,7 @@
   }
   .filter__buttons {
 	  padding: 80px 15px;
+	  text-align: center;
   }
   .filter__buttons-item {
 	-webkit-appearance: none;
@@ -327,7 +330,7 @@
 		position: absolute;
 		font-weight: 500;
 		font-size: 23px;
-		bottom: 0;
+
   }
  
   .item-buy__price {
@@ -425,6 +428,7 @@
 	justify-content: center;
 }
 .contacts__text {
+	margin: 30px;
 	font-weight: 600;
 	font-size: 30px;
 	text-align: center;
@@ -463,21 +467,31 @@
 	overflow:hidden;
 }
 
-.callback-bt .text-call span {
-text-align: center;
-color:#38a3fd;
-opacity: 0;
-font-size: 0;
-	position:absolute;
-	right: 4px;
-	top: 22px;
-line-height: 14px;
-	font-weight: 600;
+.callback-bt .text-call span{
+	text-align: center;
+    color: #38a3fd;
+    opacity: 0;
+    font-size: 0;
+    position: absolute;
+    right: 8px;
+    top: 21px;
+    line-height: 19px;
+    font-weight: 600;
 text-transform: uppercase;
 transition: opacity .3s linear;
 font-family: 'montserrat', Arial, Helvetica, sans-serif;
 }
-
+.out-basket {
+	position: absolute;
+	font-family: 'montserrat', Arial, Helvetica, sans-serif;
+	top: 5%;
+	top: 38%;
+    right: 8%;
+	color: #38a3fd;
+	font-weight: 600;
+	text-transform: uppercase;
+	font-size: 12px;
+}
 .callback-bt .text-call:hover span {
 opacity: 1;
 	font-size: 11px;
@@ -726,4 +740,17 @@ transform: rotateZ(0deg);
 	align-self: center;
 	font-size: 17px;
 	font-weight: 600;
+}
+input {
+    width: 20%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+form button {
+	width: 20%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+	cursor: pointer;
 }

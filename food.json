@@ -2,220 +2,211 @@
     "root": {
         "element": [
             {
-                "descritpion": "Lorem чісбургер ipsum dolor sit amet consectetur adipisicingelitVoluptatetemporibusrem tempore maxime sapiente. Necessitatibus, nulla",
+                "descritpion": "Cheeseburger - a type of hamburger with the obligatory addition of cheese. In addition to meat and cheese, a cheeseburger can have a wide variety of sauces: most often based on ketchup, but mayonnaise is also allowed.",
                 "id": "1",
                 "img": "burger1",
-                "name": "чісбургер",
+                "name": "cheeseburger",
                 "price": "100",
                 "top": "true",
-                "type": "Бургери"
+                "type": "burgers"
             },
             {
-                "descritpion": "Lorem дабл рояль ipsum dolor sit amet consectetur adipisicingelitVoluptatetemporibusrem tempore maxime sapiente. Necessitatibus, nulla sapiente. Necessitatibus, nulla",
+                "descritpion": "Double Royal Cheeseburger. Our double favorite is the Royal Double Cheeseburger. It has everything we love about Royal Cheese - Quarter Bun, Cheddar Double",
                 "id": "2",
                 "img": "burger2",
-                "name": "дабл рояль",
+                "name": "Double Royal",
                 "price": "150",
                 "top": "true",
-                "type": "Бургери"
+                "type": "burgers"
             },
             {
-                "descritpion": "Lorem бургер ipsum dolor sit amet consectetur adipisicingelitVoluptatetemporibusrem tempore maxime",
+                "descritpion": "A hamburger is a type of sandwich consisting of a bun cut in half and a chopped fried cutlet. In addition to meat, a hamburger can have a wide variety of toppings, such as ketchup and mayonnaise, a slice of zucchini, lettuce, pickled cucumber, raw or fried onions, and tomato.",
                 "id": "3",
                 "img": "burger3",
-                "name": "бургер",
+                "name": "hamburger",
                 "price": "70",
                 "top": "true",
-                "type": "Бургери"
+                "type": "burgers"
             },
             {
-                "descritpion": "Lorem біг тейсті  amet consectetur adipisicingelitVoluptatetemporibusrem tempore maxime sapiente. Necessitatibus, nulla",
+                "descritpion": "Natural beef in combination with fresh vegetables and Emmental cream cheese.",
                 "id": "4",
                 "img": "burger4",
-                "name": "біг тейсті",
+                "name": "Big tasty",
                 "price": "130",
                 "top": "false",
-                "type": "Бургери"
+                "type": "burgers"
             },
             {
-                "descritpion": "Lorem вега роляь ipsum dolor sit amet consectetur adipisicingelitVo       sdfsdgsdfluptatetemporibusrem tempore maxime sapiente. Necessitatibus, nulla",
+                "descritpion": "Sandwich with carrots and spinach. Healthy and satisfying vegetarian sandwich",
                 "id": "5",
                 "img": "burger5",
-                "name": "веган рояль",
+                "name": "Vegan sandwich",
                 "price": "170",
                 "top": "false",
-                "type": "Бургери"
+                "type": "burgers"
             },
             {
-                "descritpion": "фанта sdfsdgsdfluptatetemporibusrem tempore maxime sapiente. Necessitatibus, nulla",
+                "descritpion": "non-alcoholic highly carbonated soft drink with citrus flavor; produced by the Coca-Cola Corporation",
                 "id": "10",
                 "img": "drink1",
-                "name": "фанта",
+                "name": "fanta",
                 "price": "40",
                 "top": "true",
-                "type": "Напої"
+                "type": "drinks"
             },
             {
-                "descritpion": "спрайт sdfsdgsdfluptatetemporibusrem tempore maxime sapiente. Necessitatibus, nulla",
+                "descritpion": "lime and lemon flavored carbonated soft drink owned by the American company The Coca-Cola Company.",
                 "id": "11",
                 "img": "drink2",
-                "name": "спрайт",
+                "name": "sprite",
                 "price": "40",
                 "top": "false",
-                "type": "Напої"
+                "type": "drinks"
             },
             {
-                "descritpion": "полуницевий коктейль      sdfsdgsdfluptatetemporibusrem tempore maxime sapiente. Necessitatibus, nulla",
+                "descritpion": "dessert drink based on milk and ice cream, one of the symbols of American cuisine. To give the cocktail a variety of flavors, a variety of syrups, fruits, berries, grated Oreo cookies, and so on are added to it.",
                 "id": "12",
                 "img": "drink3",
-                "name": "полуницевий коктейль",
+                "name": "milk shake",
                 "price": "60",
                 "top": "false",
-                "type": "Напої"
+                "type": "drinks"
             },
             {
-                "descritpion": "пепсі     sdfsdgsdfluptatetemporibusrem tempore maxime sapiente. Necessitatibus, nulla",
+                "descritpion": "non-alcoholic carbonated drink produced by the American company PepsiCo.",
                 "id": "13",
                 "img": "drink4",
-                "name": "пепсі",
+                "name": "pepsi",
                 "price": "40",
                 "top": "true",
-                "type": "Напої"
+                "type": "drinks"
             },
             {
-                "descritpion": "стейк ipsum dolor sit amet consectetur adipisicingelitVoluptatetemporibusrem tempore maxime sapiente. Necessitatibus, nulla",
+                "descritpion": "a thick piece of fried meat. A steak made from the finest cuts of beef is usually referred to simply as a steak.",
                 "id": "14",
                 "img": "meat1",
-                "name": "стейк",
+                "name": "steak",
                 "price": "200",
                 "top": "false",
-                "type": "Стейки"
+                "type": "steaks"
             },
             {
-                "descritpion": "Lorem біф штекс ipsum dolor sit amet consectetur adipisicingelitVoluptatetemporibusrem tempore maxime sapiente. Necessitatibus, nulla",
+                "descritpion": "Steak with garlic and herbs recipe",
                 "id": "15",
                 "img": "meat2",
-                "name": "біф штекс",
+                "name": "beaf steak",
                 "price": "210",
                 "top": "true",
-                "type": "Стейки"
+                "type": "steaks"
             },
             {
-                "descritpion": "Lorem свинний флоу ipsum dolor sit amet consectetur adipisicingelitVoluptatetemporibusrem tempore maxime sapiente. Necessitatibus, nulla",
+                "descritpion": "For cooking, muscles are used that are not involved in the movement of the bull.",
                 "id": "16",
                 "img": "meat3",
-                "name": "свинний флоу",
+                "name": "beaf bomb",
                 "price": "240",
                 "top": "false",
-                "type": "Стейки"
+                "type": "steaks"
             },
             {
-                "descritpion": "Lorem стейк ipsum dolor sit amet consectetur adipisicingelitVoluptatetemporibusrem tempore maxime sapiente. Necessitatibus, nulla",
+                "descritpion": "qualitatively cooked thick piece of meat cut from the carcass of the animal",
                 "id": "17",
-                "img": "meat4",
+                "img": "chicken steak",
                 "name": "стейк",
                 "price": "130",
                 "top": "true",
-                "type": "Стейки"
+                "type": "steaks"
             },
             {
-                "descritpion": "Lorem кетчуп ipsum dolor sit amet consectetur adipisicingelitVoluptatetemporibusrem tempore maxime sapiente. Necessitatibus, nulla",
+                "descritpion": "the main components of which are tomatoes, vinegar, sugar and spices (salt, red and black pepper, and many others). Ketchup with toast",
                 "id": "18",
                 "img": "sauce1",
-                "name": "кетчуп",
+                "name": "ketchup",
                 "price": "15",
                 "top": "true",
-                "type": "Соуси"
+                "type": "sauces"
             },
             {
-                "descritpion": "Lorem соус сметанний dolor sit amet consectetur adipisicingelitVoluptatetemporibusrem tempore maxime sapiente. Necessitatibus, nulla",
+                "descritpion": "Sour cream sauce may vary. Lifehacker has found for you your favorite combinations with garlic and herbs, as well as original sauces with eggs",
                 "id": "19",
                 "img": "sauce2",
-                "name": "соус сметанний",
+                "name": "sauce cream",
                 "price": "25",
                 "top": "true",
-                "type": "Соуси"
+                "type": "sauces"
             },
             {
-                "descritpion": "Lorem стейк соус ніжний sit amet consectetur adipisicingelitVoluptatetemporibusrem tempore maxime sapiente. Necessitatibus, nulla",
+                "descritpion": "Sauce Gentle - beautiful, fragrant and easy to prepare. It is combined with fish, meat, vegetables.",
                 "id": "20",
                 "img": "sauce3",
-                "name": "соус ніжний",
+                "name": "Sauce Gentle",
                 "price": "19",
                 "top": "false",
-                "type": "Соуси"
+                "type": "sauces"
             },
             {
-                "descritpion": "Lorem соус часниковий dolor sit amet consectetur adipisicingelitVoluptatetemporibusrem tempore maxime sapiente. Necessitatibus, nulla",
+                "descritpion": "sauce, the main component of which is garlic. Garlic sauce is used to prepare various dishes of world cuisine.",
                 "id": "21",
                 "img": "sauce4",
-                "name": "соус часниковий",
+                "name": "garlic sauce",
                 "price": "20",
                 "top": "false",
-                "type": "Соуси"
+                "type": "sauces"
             },
             {
-                "descritpion": "Lorem соус карі dolor sit amet consectetur adipisicingelitVoluptatetemporibusrem tempore maxime sapiente. Necessitatibus, nulla",
+                "descritpion": "culinary business card of colorful India. Curry sauce from Runa TM is a preserved oriental tradition and domestic innovative views. Contains apple and apricot fruit puree, diluted with wine vinegar and seasoned with turmeric and cumin.",
                 "id": "22",
                 "img": "sauce5",
-                "name": "соус карі",
+                "name": "curry sauce",
                 "price": "25",
                 "top": "true",
-                "type": "Соуси"
+                "type": "sauces"
             },
             {
-                "descritpion": "Lorem соус сирний dolor sit amet consectetur adipisicingelitVoluptatetemporibusrem tempore maxime sapiente. Necessitatibus, nulla",
+                "descritpion": "Cheddar sauce, cheddar cheese or cheese sauce is a traditional sauce used in English cooking. The sauce is based on white sauce, which is known as one of the \"mother sauces\", and cheddar cheese.",
                 "id": "23",
                 "img": "sauce6",
-                "name": "соус сирний",
+                "name": "cheese sauce",
                 "price": "20",
                 "top": "true",
-                "type": "Соуси"
+                "type": "sauces"
             },
             {
-                "descritpion": "Lorem фрі з нагетсами dolor sit amet consectetur adipisicingelitVoluptatetemporibusrem tempore maxime sapiente. Necessitatibus, nulla",
+                "descritpion": "French fries with cheese sauce and onions",
                 "id": "24",
                 "img": "potatto1",
-                "name": "фрі з нагетсами",
+                "name": "french and nagets",
                 "price": "40",
                 "top": "true",
-                "type": "Картопля"
+                "type": "potato"
             },
             {
-                "descritpion": "Lorem соус лонг фрі consectetur adipisicingelitVoluptatetemporibusrem tempore maxime sapiente. Necessitatibus, nulla",
+                "descritpion": "Long and tasty potato",
                 "id": "25",
                 "img": "potatto2",
-                "name": "лонг фрі",
+                "name": "long potato",
                 "price": "30",
                 "top": "false",
-                "type": "Картопля"
+                "type": "potato"
             },
             {
-                "descritpion": "Lorem фрі сьоркл сирний dolor sit amet consectetur adipisicingelitVoluptatetemporibusrem tempore maxime sapiente. Necessitatibus, nulla",
+                "descritpion": "deep fried potato pieces. Use as an independent dis",
                 "id": "26",
                 "img": "potatto3",
-                "name": "фрі сьоркл",
+                "name": "potato rings",
                 "price": "25",
                 "top": "false",
-                "type": "Картопля"
+                "type": "potato"
             },
             {
-                "descritpion": "Lorem артопля фрі dolor sit amet consectetur adipisicingelitVoluptatetemporibusrem tempore maxime sapiente. Necessitatibus, nulla",
+                "descritpion": "deep fried potato pieces. Use as an independent dish or a side dish for second courses. Popular fast food in catering establishments.",
                 "id": "28",
                 "img": "potatto4",
-                "name": "картопля фрі",
+                "name": "French fries",
                 "price": "20",
                 "top": "true",
-                "type": "Картопля"
-            },
-            {
-                "descritpion": "Lorem біг мак consectetur adipisicingelitVoluptatetemporibusrem tempore maxime sapiente. Necessitatibus, nulla tempore maxime sapiente.",
-                "id": "33",
-                "img": "set1",
-                "name": "біг мак",
-                "price": "210",
-                "top": "true",
-                "type": "Набір"
+                "type": "potato"
             }
         ]
     }
